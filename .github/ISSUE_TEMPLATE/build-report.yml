@@ -1,0 +1,29 @@
+name: Build or test report
+description: Record assembly, fit or Amiga operating results.
+title: "Build report: "
+body:
+  - type: input
+    id: revision
+    attributes:
+      label: PCB revision
+    validations:
+      required: true
+  - type: textarea
+    id: hardware
+    attributes:
+      label: Hardware and software
+      description: Motherboard revision, CPU, PSU, OS/driver, drive models, jumpers and cables.
+    validations:
+      required: true
+  - type: textarea
+    id: tests
+    attributes:
+      label: Tests and results
+      description: Record fit, continuity, diode checks and actual operating tests separately.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Include non-sensitive measurements or photographs. Omit order references and addresses.

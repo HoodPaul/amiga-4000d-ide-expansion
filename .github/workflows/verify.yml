@@ -1,0 +1,21 @@
+name: Verify saved design
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  saved-data-audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7
+        with:
+          python-version: '3.12'
+      - name: Install audit dependency
+        run: python -m pip install -r source/requirements.txt
+      - name: Check saved CAD and submitted files
+        run: python source/verify_design.py

@@ -1,0 +1,11 @@
+{
+  "revision": "0.1",
+  "electrical_fingerprints": {
+    "nets": "cef4bdfa484d4054343461a01817bcc456f6e5d16c1e22766e06c40ae0c11afb",
+    "pads_and_component_placement": "d9c3a44cce703a42b4c14269e3fc2930a41ff0a8a19fff4d13d2307863c0b591",
+    "tracks_and_vias": "5f3007441719e532b8ef23509e88de438c211b5b3c69c4bcd70069363f3fadb3",
+    "zones_and_filled_copper": "d4870f185c6c5bef71eb5ca12e9cc3db07fec82617d782a80226fc4cc7e971ed",
+    "outline": "dbd3bd352a3f20a299723649c1373fa427bf074bf31e48cee0bdb15cfb8edfb9",
+    "layers": "49c64d54d9ac69582626611985ee550ced1d2f9bc986a98feb38d9cd7bd8faf4"
+  }
+}

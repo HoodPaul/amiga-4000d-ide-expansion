@@ -1,0 +1,35 @@
+{
+  "revision": "0.1",
+  "submission_date": "2026-10-26",
+  "submission_reported_by": "Paul",
+  "status": "PCB submitted for fabrication; receipt, assembly and hardware tests pending",
+  "quantity_confirmed": false,
+  "final_order_options_confirmed": false,
+  "cad_sha256": {
+    "Amiga4000_IDE_Expansion.kicad_pcb": "ee1155fd93cc73bcc6cee8afa630d01c2b5cd7aaec5f871003360ab6e2166f57",
+    "A4000_Local.pretty/D_DO-35_SOD27_P7.62mm_Horizontal.kicad_mod": "367a04a484381293bbfe76a8d8a5b746658435e40df843045ea279c80a4661bc",
+    "A4000_Local.pretty/IDC-Header_2x17_P2.54mm_Vertical.kicad_mod": "796a227e46ef485b4216bacaf3cd74fb1cb7d34275704f9218cead17afdd1dc3",
+    "A4000_Local.pretty/IDC-Header_2x20_P2.54mm_Narrow.kicad_mod": "b9b8cb84fccdd3b79477798949d12731bfee2fabe23d6201bac482b128476bbc",
+    "A4000_Local.pretty/IDC-Header_2x20_P2.54mm_Narrow_Title.kicad_mod": "cd8ebbb136b3d2a274a8f5f99cc6c17e2a9716b74ebe9a00b7e107d17eebda05",
+    "A4000_Local.pretty/IDC-Header_2x20_P2.54mm_Vertical.kicad_mod": "2760ea97fa7bab422ccf0197ace98b7bb91daed428e141b1e18efe15a43fa8cd",
+    "A4000_Local.pretty/JMC_White_18mm.kicad_mod": "43d4b9e08953ba90a20dc439aefad8bee5c05ac6fcc97dcfc4cb1aa2bf1e7e90",
+    "A4000_Local.pretty/PinSocket_2x17_P2.54mm_Vertical.kicad_mod": "fed382fa817fee1c13fcfed3b5b9311f9819004e39565b944561ceb6de24e0cd",
+    "A4000_Local.pretty/PinSocket_2x20_P2.54mm_Vertical.kicad_mod": "cf96c1d40000721c08f4fd5f1b1f11db0914bd446fadd997a1fbd715a8110071",
+    "A4000_Local.pretty/UKC_Cogs_7mm.kicad_mod": "e1158598d874e00a3bda60f343e0dcae35990efee483093444239efd89aefa26"
+  },
+  "manufacturing_sha256": {
+    "fabrication/REV0.1/A4000D_IDE_Expansion_Rev0_1_Gerbers.zip": "cf5cf1293cb5a3a1dba7d845289a6db2535f0122b253b0163bebe140a22aa1d6",
+    "fabrication/REV0.1/gerbers/Amiga4000_IDE_Expansion-B_Cu.gbl": "1b9360100644836ab0c266b26892e4b75dc1e71dc1bc4802400d017414862faa",
+    "fabrication/REV0.1/gerbers/Amiga4000_IDE_Expansion-B_Mask.gbs": "dd3d9d0d7e5601bca8b9b3d22c81717779a36ccbae209e78b19477e0b35423b4",
+    "fabrication/REV0.1/gerbers/Amiga4000_IDE_Expansion-B_Silkscreen.gbo": "37cc326e84c5848aa61969e133a31829c049f7378aac9d328853dc93228aa838",
+    "fabrication/REV0.1/gerbers/Amiga4000_IDE_Expansion-Edge_Cuts.gm1": "33e2b10772e95538117d0d7b46d4adfc280097d1e2450635680a8fd2061e998f",
+    "fabrication/REV0.1/gerbers/Amiga4000_IDE_Expansion-F_Cu.gtl": "1476621a343c09b49212e40764673d7a0b1f35b455f5f2f99c353bdf467714d8",
+    "fabrication/REV0.1/gerbers/Amiga4000_IDE_Expansion-F_Mask.gts": "217494c82ccb7caf6b1ad2260d2efeecac7339978a6b379d956a3e9124d346b4",
+    "fabrication/REV0.1/gerbers/Amiga4000_IDE_Expansion-F_Silkscreen.gto": "9b9e9d09acfbafd43ffaecd2961efe0d7df9424c8d9f037a477ce96fa68005b1",
+    "fabrication/REV0.1/gerbers/Amiga4000_IDE_Expansion-In1_Cu.g2": "ffe25ae33643cc902a35f72c29a6ab0b752a883893c4fe8710070cbc8eaa4260",
+    "fabrication/REV0.1/gerbers/Amiga4000_IDE_Expansion-In2_Cu.g3": "99bca88b171f44133dcc239a75ac4bf1e33cea9e34f25f816e3c3e9065814956",
+    "fabrication/REV0.1/gerbers/Amiga4000_IDE_Expansion-NPTH.drl": "74b7c0b0cea0ed1e9ce83f7cc218f3c6d58ead723ada9203b2d50d63a7691d99",
+    "fabrication/REV0.1/gerbers/Amiga4000_IDE_Expansion-PTH.drl": "af9493a1d7f2be071a0d679a44dcd7683db2659d61b39bb0011761e5a390aa58",
+    "fabrication/REV0.1/gerbers/Amiga4000_IDE_Expansion-job.gbrjob": "f84f1e4219a179a3f18bd55b2dbe92801226dbba97347bf2a99723d2a4c53172"
+  }
+}

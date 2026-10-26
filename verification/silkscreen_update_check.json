@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "native_electrical_geometry_unchanged": true,
+  "manufacturing_geometry_unchanged": [
+    "Amiga4000_IDE_Expansion-F_Cu.gtl",
+    "Amiga4000_IDE_Expansion-In1_Cu.g2",
+    "Amiga4000_IDE_Expansion-In2_Cu.g3",
+    "Amiga4000_IDE_Expansion-B_Cu.gbl",
+    "Amiga4000_IDE_Expansion-F_Mask.gts",
+    "Amiga4000_IDE_Expansion-B_Mask.gbs",
+    "Amiga4000_IDE_Expansion-Edge_Cuts.gm1",
+    "Amiga4000_IDE_Expansion-PTH.drl",
+    "Amiga4000_IDE_Expansion-NPTH.drl"
+  ],
+  "printed_text_min_height_mm": 1.0,
+  "printed_stroke_min_width_mm": 0.15,
+  "j3_top_outline_restored": true,
+  "arrows_within_nominal_header_plastic": [
+    "J2",
+    "J3",
+    "J5"
+  ],
+  "arrow_height_mm": 0.5,
+  "revision_side": "B.Silkscreen",
+  "revision_corner_rear_view": "bottom left",
+  "top_title": "Amiga 4000D IDE Expansion"
+}

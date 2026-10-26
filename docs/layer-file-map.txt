@@ -1,0 +1,19 @@
+Amiga 4000D IDE Expansion REV 0.1
+Four copper layers, top to bottom:
+
+L1  Amiga4000_IDE_Expansion-F_Cu.gtl     Top signals and pads
+L2  Amiga4000_IDE_Expansion-In1_Cu.g2    Ground plane
+L3  Amiga4000_IDE_Expansion-In2_Cu.g3    Ground plane
+L4  Amiga4000_IDE_Expansion-B_Cu.gbl     Bottom signals and pads
+
+F_Mask.gts         Top solder mask
+B_Mask.gbs         Bottom solder mask
+F_Silkscreen.gto   Top white printing
+B_Silkscreen.gbo   Bottom white printing
+Edge_Cuts.gm1      Board outline
+PTH.drl           Plated drills
+NPTH.drl          Non-plated drills (may contain no holes)
+
+All names use the Amiga4000_IDE_Expansion- prefix in the manufacturing folder.
+Nominal outline: 58.42 x 55.88 mm. Nominal thickness: 1.6 mm.
+Select black solder mask and white silkscreen on the order form.

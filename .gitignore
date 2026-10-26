@@ -1,0 +1,15 @@
+# KiCad local state and backups
+*.kicad_prl
+*.lck
+*-backups/
+*.bak
+*.bck
+*~
+_autosave-*
+fp-info-cache
+build/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

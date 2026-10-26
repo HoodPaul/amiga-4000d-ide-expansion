@@ -1,0 +1,3 @@
+(fp_lib_table
+ (lib (name "A4000_Local")(type "KiCad")(uri "${KIPRJMOD}/A4000_Local.pretty")(options "")(descr "Local KiCad 7 standard through-hole footprints"))
+)

@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "pad_count": 192,
+  "nets": 56,
+  "copper_layers": 4,
+  "drc_violations": 0,
+  "unconnected_pads": 0,
+  "socket_centre_separation_mm": 9.144,
+  "schematic_vs_connection_table": "PASS",
+  "pcb_vs_connection_table": "PASS",
+  "top_view_connector_orientation": "PASS",
+  "gerber_layers_and_drill_sizes": "PASS",
+  "via_count": 77,
+  "pcb_width_mm": 58.42,
+  "pcb_height_mm": 55.88,
+  "bottom_diodes_and_logos": "PASS",
+  "requested_silkscreen": "PASS",
+  "electrical_map_unchanged": "PASS",
+  "hardware_tested": false,
+  "mechanical_fit_tested": false
+}

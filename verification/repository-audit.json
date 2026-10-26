@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "pads": 192,
+  "nets": 56,
+  "vias": 77,
+  "electrical_fingerprints": "unchanged",
+  "submitted_manufacturing_files": "unchanged",
+  "recorded_cad_files": "unchanged",
+  "printed_text_min_height_mm": 1.0,
+  "documentation_links_checked": 35,
+  "schematic_netlist": "verification/schematic.net",
+  "fresh_netlist_supplied": false,
+  "native_drc_run_by_this_audit": false,
+  "hardware_tested": false
+}
