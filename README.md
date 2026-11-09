@@ -15,6 +15,12 @@ For engineering or AI work, start with [AGENTS.md](AGENTS.md), the [current hand
 
 These are unpopulated CAD appearance previews. The gold pads illustrate ENIG. Connector bodies are omitted to show the printing and pads.
 
+## Downloads
+
+- [Rev 0.1 prototype release and notes](https://github.com/HoodPaul/amiga-4000d-ide-expansion/releases/tag/v0.1)
+- [Full KiCad project ZIP](https://github.com/HoodPaul/amiga-4000d-ide-expansion/releases/download/v0.1/A4000D_IDE_Expansion_Rev0_1_KiCad_Project.zip)
+- [Submitted Gerber and drill ZIP](https://github.com/HoodPaul/amiga-4000d-ide-expansion/releases/download/v0.1/A4000D_IDE_Expansion_Rev0_1_Gerbers.zip)
+
 ## PCB and files
 
 Open [Amiga4000_IDE_Expansion.kicad_pro](Amiga4000_IDE_Expansion.kicad_pro) in **KiCad 7.0 or newer**. Embedded symbols and project-local footprints are included.
